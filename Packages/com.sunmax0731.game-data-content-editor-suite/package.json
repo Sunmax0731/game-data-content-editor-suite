@@ -1,0 +1,10 @@
+{
+  "name": "com.sunmax0731.game-data-content-editor-suite",
+  "version": "0.1.0",
+  "displayName": "ゲームデータ・コンテンツ編集スイート",
+  "description": "ScriptableObject、CSV、JSON、ゲームコンテンツ編集を同じDB風ビューで扱う。",
+  "unity": "2022.3",
+  "author": {
+    "name": "Sunmax0731"
+  }
+}
