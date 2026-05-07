@@ -1,0 +1,11 @@
+{
+  "createdIdea": "D:\\AI\\UnityEditor\\created_idea_003_game-data-content-editor-suite",
+  "zip": "D:\\AI\\UnityEditor\\created_idea_003_game-data-content-editor-suite\\idea_003_game-data-content-editor-suite.zip",
+  "rank": 33,
+  "domain": "UnityEditor",
+  "ideaNo": 3,
+  "title": "ゲームデータ・コンテンツ編集スイート",
+  "overview": "ScriptableObject、CSV、JSON、ゲームコンテンツ編集を同じDB風ビューで扱う。",
+  "problem": "ゲームデータとコンテンツ編集がファイルやInspectorに散らばり、整合性を見落としやすい。",
+  "differentiation": "データ編集、検証、プレビューを同じUnity Editorワークフローにする。"
+}

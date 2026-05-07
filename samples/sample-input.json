@@ -1,0 +1,19 @@
+{
+  "product": {
+    "repository": "game-data-content-editor-suite",
+    "title": "ゲームデータ・コンテンツ編集スイート"
+  },
+  "items": [
+    {
+      "id": "ok-1",
+      "title": "ゲームデータ・コンテンツ編集スイート 正常ケース",
+      "source": "source-ok",
+      "schema": "schema-ok",
+      "contentPath": "contentPath-ok",
+      "owner": "owner-ok",
+      "acceptance": "acceptance-ok",
+      "status": "ready",
+      "preview": "ready"
+    }
+  ]
+}
