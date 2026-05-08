@@ -1,0 +1,10 @@
+{
+  "name": "com.sunmax0731.game-data-content-editor-suite",
+  "displayName": "ゲームデータ・コンテンツ編集スイート",
+  "version": "0.1.0-alpha.1",
+  "unity": "2022.3",
+  "description": "game-data-content-editor-suite closed alpha Unity editor package",
+  "author": {
+    "name": "Sunmax0731"
+  }
+}
